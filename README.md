@@ -3,4 +3,4 @@ Reproductor de Musica en HTML5, CSS y Javascript, Github Pages y Musica de MP3Te
 
 ![ ](PLAYLIST/ReproductorMusic2.png)
 
-URL: https://juancitopena.github.io/ReproductorJS
+URL: https://juancitopena.github.io/Reproducto-Audio/
