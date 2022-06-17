@@ -1,6 +1,6 @@
-# Reproducto-Audio
+# Reproductor-Audio
 Reproductor de Musica en HTML5, CSS y Javascript, Github Pages y Musica de MP3Teca.app
 
-![ ](images/ReproductorMusic.png)
+![ ](PLAYLIST/ReproductorMusic2.png)
 
 URL: https://juancitopena.github.io/ReproductorJS
